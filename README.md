@@ -1,4 +1,4 @@
-# 30DaysofCSS
+# 30DaysofCSS💻
 Hey Guys,
 
-Esse repositório é dedicado para armazenar meu progresso no desafio 30diasdecss
+ Esse repositório é dedicado para armazenar meu progresso no desafio 30diasdecss.
